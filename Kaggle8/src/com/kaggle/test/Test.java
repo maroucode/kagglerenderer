@@ -1,11 +1,13 @@
 package com.kaggle.test;
 
-public class Test {
-    //hello
-	public static void main(String[] args) {
+
+public final class Test {
+//hello
+	public static void main(Integer[] ab) {
 		// TODO Auto-generated method stub
 			//abc
 		//world
+		//bbll
 	}
 
 }
