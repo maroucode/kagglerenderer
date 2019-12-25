@@ -6,5 +6,6 @@ public final class Test {
 		// TODO Auto-generated method stub
 			//abc
 	}
+	//test2
 
 }
